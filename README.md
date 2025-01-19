@@ -6,6 +6,7 @@ A first-year Computer Science (Graphic and Multimedia Software) student
 * 🌍  I'm based in Skudai,Malaysia
 * ✉️  You can contact me at [nicole0033007@gmail.com](mailto:nicole0033007@gmail.com)
 * 🧠  I'm learning C++ language this semester
+* 📌  Feel free to check out my [eportfolio](https://nicolelee-eportfolio.mystrikingly.com/)
 
 ### Skills
 
